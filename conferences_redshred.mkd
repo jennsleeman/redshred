@@ -1,0 +1,12 @@
+# Red Shred Publication Schedule
+
+  
+| Conference Name | Abstract Due Date | Paper Due Date | Feedback Date | Notification Date | Conference Date | Paper Topic | Lead Author | Link |
+|--|--|--|--|--|--|--|--|--|
+| AAAI | August 30, 2019 | September 5, 2019 | February 7-11 2020 | October 10-13, 2019 | November 10, 2019 | Acronyms | Jennifer | https://aaai.org/Conferences/AAAI-20 |
+| IEEE Big Data | N/A | August 19, 2019 | N/A | Oct 16, 2019 | Dec 9-12, 2019 | | Lead Author | https://cci.drexel.edu/bigdata/bigdata2019 |
+| IEEE International Conference Data Engineering | October 8, 2019 | October 15, 2019 | December 14th, 2019 | February 7, 2020 | April 20th - 24th, 2020 | Topic | Lead Author | https://www.utdallas.edu/icde |
+| Winter Conference on Applications of Computer Vision | N/A | July 26, 2019 /October 11, 2019 | N/A | September 16, 2019/December 9, 2019 | March 2-5, 2020 | Rotational Recognition and Correction | Adam | http://wacv20.wacv.net/index.php |
+| 14th International Symposium on Visual Computing | N/A | July 15, 2019| N/A | August 19, 2019 | October 7-9, 2019 | Layout Segmentation | Maryam | http://www.isvc.net/ |
+| IEEE Conference on Computer Vision and Pattern Recognition | TBD | TBD | TBD | TBD | 13-19 Jun 2020 | Topic | Lead Author | TBD |
+| ICMLA 2019 : 18th IEEE International Conference on Machine Learning and Applications | N/A | Sep 7, 2019 | N/A | Oct 7, 2019 | Dec 16, 2019 - Dec 19, 2019 | DBpedia Classifier | Ankur | https://www.icmla-conference.org/icmla19/ |
